@@ -20,4 +20,5 @@ I am going to use different technologies such as Python, Amazon Web Services (AW
 
 
 ## Dataset Used
- Here is thte Link to the dataset used: 
+ Here is thte Link to the dataset used:https://github.com/LewistechKe/stock-market-kafka-data-engineering-project/blob/master/KafkaConsumer.ipynb
+ 
